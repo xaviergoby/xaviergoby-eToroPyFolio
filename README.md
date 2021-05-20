@@ -1,7 +1,4 @@
 # <span style="color:#228B22">eToroPyfolio</span>, Your [<span style="color:#228B22">eToro</span>](https://www.etoro.com/) Portfolio's Data Analytics Edge
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta nisl metus, eu varius quam finibus quis. Quisque consequat enim in erat finibus ornare. Pellentesque ullamcorper odio justo, ut
-rutrum tortor efficitur non. Cras consectetur dolor nisi, nec malesuada est aliquam et. Fusce hendrerit enim vitae orci posuere imperdiet. Praesent vitae rhoncus sapien. Cras dapibus nulla sed dui
-ullamcorper scelerisque. Duis ullamcorper ex et placerat mattis.
 
 ---
 
