@@ -136,4 +136,8 @@ rutrum tortor efficitur non.
 
 ```
 
-# Sample text for testing branch creation without breaking the whole damn VCS
+# readme edit for testing branch creation w/o breaking the whole damn VCS
+
+# read me edit for testing pulling recent changes using PyCharm after making changes on the remote on GitHub
+
+
